@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/
+data/*.json
+ml/historical_data*.csv
+*.bak*
+*.backup*
+*.before_*
+*.zip
+.vscode/

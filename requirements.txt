@@ -1,0 +1,14 @@
+#requirements.txt
+
+python-telegram-bot[job-queue]==21.0.1
+metaapi-cloud-sdk
+prettytable
+typing_extensions
+python-dotenv
+pandas
+numpy
+scikit-learn
+xgboost
+ta
+joblib
+twelvedata
